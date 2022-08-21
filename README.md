@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @guddnboy
+- 🌱 I’m currently learning C,Python, Data Structure(22.08.03~)
