@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hung3018)](https://solved.ac/hung3018)
 <!--
 **guddnboy/guddnboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
