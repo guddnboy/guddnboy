@@ -14,6 +14,8 @@
 ### 🖋️ Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hung3018)](https://solved.ac/hung3018)
 
+### Commit Time
+<script src="https://gist.github.com/guddnboy/6be4cee56d41d57ceedf1fc2cdf75fde.js"></script>
 
 <!--
 **guddnboy/guddnboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
