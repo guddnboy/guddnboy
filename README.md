@@ -1,5 +1,6 @@
 <div align = center>
- 📖STUDY
+ 
+ ### 📖STUDY
  
   <div> 
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
@@ -9,13 +10,15 @@
   </div>
 </div>
 
-### GITHUB
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light)
+<div>
+ 
+ ### GITHUB
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light)
 
+ ### 🖋️ BAEKJOON
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hung3018)](https://solved.ac/hung3018)
 
-### 🖋️ BAEKJOON
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hung3018)](https://solved.ac/hung3018)
-
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguddnboy&count_bg=%2300BCFF&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
