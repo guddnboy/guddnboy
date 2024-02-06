@@ -10,15 +10,15 @@
   </div>
 </div>
 
-<div class='contents'>
+<div class='contents' display : flex>
 
- <div class ='stats_github'>
+ <div class ='stats_github' width : 400px height: 400px>
  
   ### <img src='https://github.githubassets.com/favicons/favicon.svg' width=20px height=20px> GITHUB
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light)
  </div>
 
- <div class='stats-bj'>
+ <div class='stats-bj' width : 400px height: 400px>
 
   ### 🖋️ BAEKJOON
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hung3018)](https://solved.ac/hung3018)
@@ -28,20 +28,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguddnboy&count_bg=%2300BCFF&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<style>
- .contents {
-  display : flex;
- }
-
- .stats_github{
-  width : 400px;
-  height : 400px;
- }
-
- .stats_bj{
-  width : 400px;
-  height : 400px;
- }
 </style>
 
 <!--
