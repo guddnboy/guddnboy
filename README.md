@@ -10,7 +10,7 @@
   </div>
 </div>
 
-<div class='contents' display : flex>
+<div class='contents' align=center>
 
  <div class ='stats_github' width : 400px height: 400px>
  
