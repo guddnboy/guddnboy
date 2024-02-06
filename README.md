@@ -12,7 +12,7 @@
 
 <div>
  
- ### <img src='https://github.githubassets.com/favicons/favicon.svg'>GITHUB
+ ### <img src='https://github.githubassets.com/favicons/favicon.svg' width=50px height=50px> GITHUB
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light)
 
  ### 🖋️ BAEKJOON
