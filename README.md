@@ -1,6 +1,6 @@
 <div align = center>
 
- ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Guddn's%20Github&fontSize=70&animation=fadeIn)
+ ![header](https://capsule-render.vercel.app/api?type=Venom&color=48801C&fontcolor=333333&height=300&section=header&text=Guddn's%20Github&fontSize=70&animation=fadeIn)
  
  ### 📖STUDY
  
