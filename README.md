@@ -1,4 +1,6 @@
 <div align = center>
+
+ ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Guddn's%20Github&fontSize=70&animation=fadeIn)
  
  ### 📖STUDY
  
