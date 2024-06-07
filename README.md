@@ -21,11 +21,15 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light)
  </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/guddnboy"/>
-</a>
+### 동물농장
 
- <div class='stats-bj' width : 400px height: 400px>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/guddnboy"
+  width="600"
+  height="300"
+/>
+</a>
 
   ### 🖋️ BAEKJOON
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hung3018)](https://solved.ac/hung3018)
