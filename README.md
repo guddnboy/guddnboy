@@ -21,6 +21,10 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light)
  </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/guddnboy"/>
+</a>
+
  <div class='stats-bj' width : 400px height: 400px>
 
   ### 🖋️ BAEKJOON
@@ -34,9 +38,6 @@
 
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/guddnboy"/>
-</a>
 
 
 <!--
