@@ -34,6 +34,11 @@
 
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/guddnboy"/>
+</a>
+
+
 <!--
 **guddnboy/guddnboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
