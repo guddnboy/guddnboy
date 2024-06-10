@@ -21,7 +21,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light)
  </div>
 
-### ZOO
+###  ZOO
 
 <a href="https://github.com/devxb/gitanimals">
 <img
