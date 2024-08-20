@@ -21,16 +21,6 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light)
  </div>
 
-###  ZOO
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/guddnboy"
-  width="600"
-  height="300"
-/>
-</a>
-
   ### 🖋️ BAEKJOON
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hung3018)](https://solved.ac/hung3018)
  </div>
@@ -57,4 +47,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+###  ZOO
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/guddnboy"
+  width="600"
+  height="300"
+/>
+</a>
+
 -->
