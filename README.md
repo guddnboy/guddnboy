@@ -2,7 +2,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=Venom&theme=cobalt&height=300&section=header&text=Guddn's%20Github&fontSize=70&animation=fadeIn)
  
- ### 📖Language Have Used
+ ### 📖Language I Have Used
  
   <div> 
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
