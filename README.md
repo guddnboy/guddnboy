@@ -14,7 +14,7 @@
   <thead>
     <tr>
       <th style="border: none;"><img src="https://github.githubassets.com/favicons/favicon.svg" width="20px" height="20px" />GITHUB</th>
-      <th style="border: none;">🖋️BAEKJOON</th>
+<!--       <th style="border: none;">🖋️BAEKJOON</th> -->
     </tr>
   </thead>
   <tbody>
@@ -22,11 +22,11 @@
       <td align="center" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=gruvbox_light" />
       </td>
-      <td align="center" style="border: none;">
+<!--       <td align="center" style="border: none;">
          <a href="https://solved.ac/hung3018">
           <img src="http://mazassumnida.wtf/api/generate_badge?boj=hung3018" />
         </a>
-      </td>
+      </td> -->
     </tr>
   </tbody>
 </table>
