@@ -1,13 +1,12 @@
 <div align="center">
   <div>
-   <div>
     <img
       src="https://github-readme-stats.vercel.app/api?username=guddnboy&show_icons=true&theme=solarized-light"
       alt="GitHub Stats"
       width="400"
     />
-   </div>
-   <div>
+  </div>
+  <div>
     <a href="https://velog.io/@guddnboy" target="_blank">
       <img
         src="https://velog-readme-stats.vercel.app/api?name=guddnboy"
@@ -15,6 +14,14 @@
         width="400"
       />
     </a>
-   </div>
+  </div>
+  <div>
+    <a href="https://solved.ac/guddnboy" target="_blank">
+      <img
+        src="http://mazassumnida.wtf/api/generate_badge?boj=guddnboy"
+        alt="Solved.ac 프로필"
+        width="400"
+      />
+    </a>
   </div>
 </div>
