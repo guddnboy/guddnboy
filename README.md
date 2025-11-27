@@ -18,7 +18,7 @@
   <div>
     <a href="https://solved.ac/guddnboy" target="_blank">
       <img
-        src="http://mazassumnida.wtf/api/generate_badge?boj=guddnboy"
+        src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guddnboy"
         alt="Solved.ac 프로필"
         width="400"
       />
